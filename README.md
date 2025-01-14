@@ -22,12 +22,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Usei os prompts de artes no `Ideogram`
 
-## **[LINK da Capa do Podcast](https://github.com/crisisland/DIO_Podcast/blob/main/Capa%20do%20podcast.jpeg)**
-   **[LINK do Podcast](https://github.com/crisisland/DIO_Podcast/blob/main/Podcast.MP3)**
+**[LINK da Capa do Podcast](https://github.com/crisisland/DIO_Podcast/blob/main/Capa%20do%20podcast.jpeg)**
+**[LINK do Podcast](https://github.com/crisisland/DIO_Podcast/blob/main/Podcast.MP3)**
 
 
-</p>
-<br/><br/>
-<p>
 
 ---
